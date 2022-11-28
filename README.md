@@ -35,7 +35,7 @@ Um chat em grupo em que diversas pessoas podem entrar em uma sala criada por um 
 # 📁 Acesso ao projeto
 
 
-https://github.com/joaoreider/sistema-de-login
+https://github.com/joaoreider/chat-em-grupo
 
 
 # 🛠️ Abrir e rodar o projeto
